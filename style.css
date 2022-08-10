@@ -1,0 +1,22 @@
+body{
+    background-color:cyan;
+}
+h1{
+    font-size: 40px;
+    color:red;
+    background-color: blue;
+    margin-top:1px;
+    position:fixed;
+}
+
+button{
+    background-color: pink;
+    font-size:20px;
+}
+
+h5{
+    font-size:30px;
+    background-image: blue;
+    color:red;
+    position:fixed;
+}
